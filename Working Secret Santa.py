@@ -4,7 +4,7 @@ import random
 import smtplib, ssl
 
 #csv file with all emails in 
-#filename = "C:/Users/honor/Downloads/secret santa.csv"
+#filename = "FILE LOCATION"
 
 #message to be sent in the emails
 message = """\
