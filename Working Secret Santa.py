@@ -92,11 +92,3 @@ if sendemails == "Yes":
     sendemails_func(finallist, lengthoffinal, message) # jump into function ready to send emails
 else:
     print("Not going function.") #letting you know whats going on
-    
-    
-    
-    
-    
-#email: secretsantacretins@gmail.com
-#password: cretinssecretsanta
-    
